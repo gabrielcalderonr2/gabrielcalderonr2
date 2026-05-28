@@ -1,37 +1,34 @@
-## Hi there 👋 I'm Gabriel Calderon
-💻 Skills
-HTML
-CSS
-JavaScript
-Responsive Web Design
-GitHub
-Software Testing
-CRM
-Technical Support
-🚀 Projects
-Word Puzzle Game
-Responsive Business Website
-Vehicle Catalog Project
-Discover Page with JSON and LocalStorage
-📚 Currently Learning
-Web Development
-JavaScript
-Software Testing
-UI/UX principles
-📫 Contact
-LinkedIn: https://www.linkedin.com/in/gabriel-calderon-r/?locale=en-US
-Email: gabriel.cald@hotmail.com
-<!--
-**gabrielcalderonr2/gabrielcalderonr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Gabriel Calderon
 
-Here are some ideas to get you started:
+Production Analyst and Software Development student passionate about technology, problem-solving, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills and Technologies
+
+* HTML
+* CSS
+* JavaScript
+* Responsive Web Design
+* GitHub
+* Software Testing
+* CRM
+* Technical Support
+* Customer Service
+
+## 🚀 Projects and Work
+
+* Word Puzzle Game
+* Responsive Vehicle Business Website
+* Dynamic Discover Page using JSON and LocalStorage
+* Software Testing and QA Assignments
+
+## 📚 Currently Learning
+
+* Web Development
+* JavaScript
+* Software Testing
+* UI/UX Fundamentals
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/gabriel-calderon-r/
+* GitHub: https://github.com/gabrielcalderonr2
